@@ -26,7 +26,7 @@ Parameters
 Returns
 -------
 
-<table><thead><tr><th>Param Type</th><th>Description</th></tr></thead><tbody><tr><td>boolean</td><td><ul><li><strong>true: </strong>the element is present and clickable.</li><li><strong>false: </strong>the element is neither present or clickable.</li></ul></td></tr></tbody></table>
+<table><thead><tr><th>Param Type</th><th>Description</th></tr></thead><tbody><tr><td>boolean</td><td><ul><li><strong>true: </strong>the element is present and clickable.</li><li><strong>false: </strong>the element is either not present or, if present, it is not clickable.</li></ul></td></tr></tbody></table>
 
 Example
 -------
